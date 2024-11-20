@@ -1,4 +1,4 @@
-# Youtube-video-and-playlist-downloader-in-mp4-audio
+# Playlist Wrangler
 # YouTube Playlist Downloader
 
 #### Video Demo:  <https://youtu.be/CVCza9kUWo8>
