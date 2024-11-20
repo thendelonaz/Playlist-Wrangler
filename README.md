@@ -8,6 +8,7 @@
 
 This Python script allows you to download videos or convert them to audio from a YouTube playlist. It uses the `yt_dlp` library for downloading and `colorama` for colored terminal output. Additionally, it uses `pyfiglet` to display stylized text.
 
+## Motivation 
 ## Features
 
 - Download all videos from a YouTube playlist.
